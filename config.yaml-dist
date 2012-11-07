@@ -1,0 +1,4 @@
+# file: config.yaml
+api:
+  endpoint: []    # MSN Catalog API Endpoint
+  search: []      # MSN Catalog API Search
